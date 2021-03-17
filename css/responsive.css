@@ -1,0 +1,806 @@
+
+/*--------------responsive-----------*/
+
+
+@media (max-width: 1465px){
+	.admission-details{
+		width: 50%;
+		height: 100%;
+		padding-left: 120px;
+	}
+
+	.admission-details h2{
+		font-size: 30px;
+		margin-top: 118px;
+	}
+
+	.overlay{
+		display: none;
+	}
+
+
+	.admission-details #btn{
+		height: 45px;
+		border-radius: 50px;
+		border:none;
+		width: 220px;
+		background: #21a7d0;
+		position: absolute;
+	}
+	.news-content{
+		padding: 70px;
+	}
+
+	.date-1{
+		font-size: 40px;
+	}
+
+	.date-1 h3{
+		font-size: 40px;
+		line-height: 70px;
+	}
+
+	.content-part h4{
+		top: -5px;
+		margin-bottom: -53px;
+		font-size: 18px;
+		line-height: 34px;
+		transition: all 0.3s ease;
+		padding-left: 120px;
+		position: relative;
+		padding-bottom: 22px;
+	}
+	
+}
+
+
+
+
+
+@media (max-width: 1368px){
+	.admission-details{
+		width: 50%;
+		height: 100%;
+		padding-left: 120px;
+	}
+
+	.admission-details h2{
+		font-size: 30px;
+		margin-top: 115px;
+	}
+}
+
+
+@media (max-width: 1345px){
+	.admission-details{
+		width: 50%;
+		height: 100%;
+		padding-left: 80px;
+	}
+
+	.admission-details h2{
+		font-size: 30px;
+		margin-top: 105px;
+	}
+}
+
+
+@media (max-width: 1320px){
+	.admission-details{
+		width: 50%;
+		height: 100%;
+		padding-left: 80px;
+	}
+
+	.admission-details h2{
+		font-size: 30px;
+		margin-top: 95px;
+	}
+}
+
+@media (max-width: 1280px){
+	.admission-details{
+		width: 50%;
+		height: 100%;
+		padding-left: 80px;
+	}
+
+	.admission-details h2{
+		font-size: 30px;
+		margin-top: 90px;
+	}
+}
+
+@media (max-width: 1252px){
+	.admission-details{
+		width: 50%;
+		height: 100%;
+		padding-left: 80px;
+	}
+
+	.admission-details h2{
+		font-size: 30px;
+		margin-top: 55px;
+	}
+}
+
+
+@media (max-width: 1199px){
+
+	.location{
+		font-size: 14px;
+		padding-left: 20px;
+	}
+
+	.account{
+		padding-left: 10px;
+		float: right;
+		position: relative;
+		top: -30px;
+	}
+
+	.text{
+		position: relative;
+		top: -10px;
+		line-height: 31px;
+		left: 50px;
+		float: right;
+		height: 100%;
+	}
+
+	.text p{
+		font-size: 14px;
+		display: inline-block;
+		padding: 10px 25px;
+		background: #2DB4DE;
+	}
+
+	.account span{
+		font-size: 14px;
+		padding-left: 20px;
+	}
+
+	.logo{
+		float: left;
+		margin-top: 22px;
+		max-width: 100%;
+		max-height: 40px;
+	}
+
+	.logo img{
+		width: 150px;
+	}
+
+	.menu{
+		width: 800px;
+		float: left;
+	}
+
+	.mainMenu{
+		list-style: none;
+		align-items: center;
+		padding-left: 70px;
+	}
+
+	#searchBtn{
+		right:-40px;
+		top: 29px;
+	}
+
+	#cart{
+		right: -60px;
+		top: 29px;
+	}
+
+	#menu{
+		right: -80px;
+		top: 25px;
+	}
+
+	#WorkButton{
+		position: relative;
+		left: 320px;
+		text-align: center;
+		top:40px;
+	}
+
+	.about-us{
+		width: 64%;
+		height: 600px;
+		padding: 60px 60px 70px;
+		margin-top: -60px;
+	}
+
+	.about-us .title h4{
+		font-size: 20px;
+	}
+
+	.about-us .title h2{
+		font-size: 38px;
+	}
+
+	.about-us .title p{
+		font-size: 15px;
+	}
+
+	.notice{
+		width: 30%;
+		margin-top: -60px;
+		padding-left: 60px;
+	}
+
+	.name{
+		font-size: 18px;
+		width: 290px;
+		text-align: center;
+	}
+
+	.notice ul{
+		width: 290px;
+	}
+
+	.notice ul li{
+		padding: 14px;
+	}
+
+	.admission-details{
+		padding-left: 80px;
+	}
+
+	.admission-details h2{
+		font-size: 30px;
+		margin-top: 40px;
+	}
+
+	.question-part{
+		width: 50%;
+		background: #f9f7f8;
+		height: 650px;
+		padding: 40px 30px 40px;
+		float: left;
+	}
+
+	.team-item:after {
+		height: 260px;
+		width: 260px;
+	}
+
+	.team-item .content-part h2{
+		font-size: 18px;
+	}
+
+	.news-content{
+		padding: 40px;
+		margin-bottom: 18px;
+	}
+	.subsTitle p{
+		font-size: 20px;
+	}
+
+	.subsTitle h2{
+		font-size: 40px;
+		line-height: 1.6;
+	}
+
+	.subsform{
+		padding-left: 60px;
+		max-width: 45%;
+	}
+
+	.newsletter-subs input{
+		width: 100%;
+	}
+
+	.copyright p{
+		padding-left: 130px;
+		text-align: center;
+	}
+
+	.footer-social{
+		text-align: right;
+		padding-left: 110px;
+		padding-top: 15px;
+	}
+}
+
+
+@media (max-width: 1087px){
+	.menu{
+		width: 800px;
+		float: left;
+	}
+
+	.mainMenu{
+		padding-left: 90px;
+	}
+
+	.text{
+		position: relative;
+		top: -10px;
+		left: 20px;
+		float: right;
+	}
+
+	.account {
+		margin-right: 80px;
+	}
+
+	#searchBtn{
+		right:-15px;
+		top: 29px;
+	}
+
+	#cart{
+		right: -30px;
+		top: 29px;
+	}
+
+	#menu{
+		right: -45px;
+		top: 25px;
+	}
+
+	.mainMenu li a{
+		font-size: 13px;
+	}
+
+	.admission-details{
+		padding-left: 60px;
+	}
+
+	.admission-details h2{
+		font-size: 30px;
+		margin-top: 2px;
+	}
+}
+
+
+@media (max-width: 991px){
+
+	.overlay{
+		display: block;
+	}
+
+	.mark span{
+		display: block;
+	}
+
+
+
+	.overlay .closebtn{
+		display: block;
+	}
+	
+
+	.topBarhead{
+		display: none;
+	}
+
+	.menu{
+		display: none;
+	}
+
+	.logo img{
+		width: 200px;
+	}
+
+	.content h1{
+		font-size:40px;
+		text-align: left;
+	}
+
+	#WorkButton{
+		left: 220px;
+	}
+
+	.about-us{
+		width: 100%;
+		margin-top: 100px;
+	}
+
+	.notice{
+		width: 100%;
+		margin-top: 100px;
+
+	}
+
+	.name{
+		width: 700px;
+		margin-bottom: 20px;
+		position: relative;
+		left: -50px;
+	}
+
+	.notice ul{
+		list-style: none;
+		width: 700px;
+		position: relative;
+		top: 0;
+		left: -50px;
+	}
+
+	.notice ul li{
+		padding: 30px;
+	}
+
+	.single-course{
+		width: 48%;
+		display: flex;
+	}
+
+	.course-details h4{
+		font-size: 17px;
+	}
+
+	.course-details span{
+		font-size: 15px;
+	}
+
+
+	.single-box{
+		width: 48%;
+		margin-bottom: 30px;
+		padding: 30px;
+		display: block;
+	}
+
+	.admission-image{
+		width: 100%;
+	}
+
+	.admission-details{
+		width: 100%;
+	}
+
+	.admission-details h2{
+		margin-top: 30px;
+	}
+
+	.question-part{
+		width: 100%;
+	}
+
+	.solution-video{
+		width: 100%;
+	}
+
+	.news-list{
+		width: 100%;
+	}
+
+	.news-date{
+		width: 100%;
+	}
+
+	.news-content{
+		position: 70px;
+	}
+
+	.subsTitle p{
+		font-size: 15px;
+	}
+
+	.subsTitle h2{
+		font-size: 30px;
+		line-height: 1.6;
+	}
+
+	.subsform{
+		padding-left: 60px;
+		max-width: 70%;
+	}
+
+	.subsBoxesWrapper{
+		padding: 30px 30px;
+	}
+
+	.list-explore:first-child{
+		padding-top: 200px;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+	.list-explore{
+		flex: 0 0 100%;
+		max-width: 100%;
+		padding-top: 50px;
+	}
+
+	.list-explore-1{
+		padding-top: 70px;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+	.list-explore-1 h3{
+		padding-left: 10px;
+	}
+
+	.list-explore-1 ul{
+		padding-left: 10px;
+	}
+
+	.footer-bottom:before{
+		width: 80%;
+
+	}
+
+	.footer-logo{
+		width: 100%;
+	}
+
+	.copyright{
+		text-align: left;
+	}
+
+	.copyright p{
+		padding-left: 12px;
+	}
+
+	.footer-social{
+		width: 100%;
+		text-align: left;
+		padding-left: 10px;
+	}
+
+	.single-details{
+		width: 46%;
+	}
+	.single-details:last-child{
+		margin-left: 160px;
+		margin-top: 30px;
+	}
+}
+
+
+
+@media (max-width: 767px){
+	.content h1{
+		font-size: 32px;
+		margin-left: 70px;
+	}
+
+	.content p{
+		font-size: 20px;
+	}
+
+	#WorkButton{
+		left: 150px;
+	}
+
+	.about-us{
+		height: 700px;
+	}
+
+	.name{
+		width: 540px;
+	}
+
+	.notice ul{
+		width: 540px;
+	}
+
+	.single-course{
+		width: 100%;
+	}
+
+	.single-course:first-child{
+		margin-top: 80px;
+	}
+
+	#buton{
+		float: left;
+		top: 80px;
+	}
+
+	.single-box:first-child{
+		margin-top: 80px;
+	}
+
+	.single-box{
+		width: 100%;
+	}
+
+	.single-details{
+		width: 100%;
+	}
+
+	.single-details:last-child{
+		width: 100%;
+		margin-left: 2px;
+		margin-top: 30px;
+	}
+
+	.team-item:after{
+		height: 450px;
+		width: 450px;
+	}
+
+	.footer{
+		margin-top: 0;
+	}
+
+	.list-explore:first-child{
+		padding-top: 100px;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+	.list-explore{
+		flex: 0 0 100%;
+		max-width: 100%;
+		padding-top: 50px;
+	}
+
+	.subsTitle{
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+	.subsTitle h2{
+		font-size: 36px;
+	}
+
+	.subsform{
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+	.newsletter-subs input{
+		align-items: left;
+	}
+
+}
+
+
+@media (max-width: 575px){
+	.logo{
+		padding-left: 50px;
+	}
+
+	.content p{
+		font-size: 18px;
+	}
+
+	#WorkButton{
+		height: 40px;
+		width: 200px;
+		left: 180px;
+	}
+
+	.about-us{
+		width: 90%;
+		margin-left: 30px;
+	}
+
+	.about-us .title h4{
+		font-size: 15px;
+	}
+
+	.about-us .title h2{
+		font-size: 26px;
+	}
+
+	.image-1{
+		margin-top: 30px;
+		padding-left: 10px;
+	}
+
+	span{
+		padding-left: 10px;
+	}
+
+	.name{
+		width: 500px;
+		margin-left: 25px;
+	}
+
+	.notice ul{
+		width: 500px;
+		left: -30px;
+	}
+
+	.notice ul li{
+		padding: 30px;
+	}
+
+	.single-course{
+		width: 48%;
+		display: flex;
+	}
+
+	.sec-title{
+		margin-left: 40px;
+	}
+
+	.single-course{
+		width: 90%;
+		margin-left: 30px;
+	}
+
+	#buton{
+		left: 40px;
+	}
+
+	.single-box{
+		width: 90%;
+		margin-left: 30px;
+	}
+	.question-part h2{
+		font-size: 30px;
+	}
+
+	.question-part, .solution-video, .single-details{
+		width: 90%;
+		margin-left: 30px;
+	}
+
+	.single-details{
+		margin-bottom: 30px;
+	}
+
+	.single-details:last-child{
+		margin-top: 30px;
+	}
+
+	.team-item .content-part h2{
+		font-size: 18px;
+	}
+
+	.single-details:last-child{
+		width: 90%;
+		margin-left: 30px;
+	}
+
+	.update-title h3{
+		font-size: 15px;
+	}
+
+	.update-title h1{
+		font-size: 30px;
+	}
+
+	.news-list{
+		width: 90%;
+		margin-left: 45px;
+	}
+
+	.newsItem{
+		display: block;
+	}
+
+	.news-image{
+		width: 100%;
+	}
+
+	.newsItem .news-image img{
+		width: 100%;
+	}
+
+	.newsItem .news-details{
+		width: 100%;
+	}
+
+	.news-date{
+		width: 90%;
+		margin-left: 30px;
+	}
+
+	.subsBoxesWrapper{
+		width: 90%;
+		margin-left: 20px;
+	}
+
+	.subsTitle p{
+		font-size: 15px;
+	}
+
+	.subsTitle h2{
+		font-size: 25px;
+	}
+
+	.list-explore, .list-explore-1, .footer-bottom{
+		margin-left: 40px;
+	}
+
+}
